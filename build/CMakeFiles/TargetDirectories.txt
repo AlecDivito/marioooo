@@ -1,3 +1,0 @@
-/Users/divitoa/code/alecdivito/mariooo/build/CMakeFiles/final_mario.dir
-/Users/divitoa/code/alecdivito/mariooo/build/CMakeFiles/edit_cache.dir
-/Users/divitoa/code/alecdivito/mariooo/build/CMakeFiles/rebuild_cache.dir
