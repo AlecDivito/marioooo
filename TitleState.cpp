@@ -1,6 +1,6 @@
-#include <TitleState.h>
-#include <Utility.h>
-#include <ResourceHolder.h>
+#include "TitleState.h"
+#include "Utility.h"
+#include "ResourceHolder.h"
 
 #include <SFML/Graphics/RenderWindow.hpp>
 

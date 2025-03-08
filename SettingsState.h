@@ -1,11 +1,11 @@
 #ifndef BOOK_SETTINGSSTATE_HPP
 #define BOOK_SETTINGSSTATE_HPP
 
-#include <State.h>
-#include <Player.h>
-#include <Container.h>
-#include <Button.h>
-#include <Label.h>
+#include "State.h"
+#include "Player.h"
+#include "Container.h"
+#include "Button.h"
+#include "Label.h"
 
 #include <SFML/Graphics/Sprite.hpp>
 #include <SFML/Graphics/Text.hpp>

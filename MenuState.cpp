@@ -1,7 +1,7 @@
-#include <MenuState.h>
-#include <Button.h>
-#include <Utility.h>
-#include <ResourceHolder.h>
+#include "MenuState.h"
+#include "Button.h"
+#include "Utility.h"
+#include "ResourceHolder.h"
 
 #include <SFML/Graphics/RenderWindow.hpp>
 #include <SFML/Graphics/View.hpp>

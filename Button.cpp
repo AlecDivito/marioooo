@@ -1,5 +1,5 @@
-#include <Button.h>
-#include <Utility.h>
+#include "Button.h"
+#include "Utility.h"
 
 #include <SFML/Window/Event.hpp>
 #include <SFML/Graphics/RenderStates.hpp>
