@@ -5,7 +5,7 @@
 #include "ResourceIdentifiers.h"
 #include "Animation.h"
 
-#include <SFML\Graphics\Sprite.hpp>
+#include <SFML/Graphics/Sprite.hpp>
 
 class Enemy : public Entity
 {

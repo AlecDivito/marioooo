@@ -4,7 +4,7 @@
 #include <SFML/Window/Event.hpp>
 #include <SFML/Graphics/RenderStates.hpp>
 #include <SFML/Graphics/RenderTarget.hpp>
-#include <SFML\System\Vector2.hpp>
+#include <SFML/System/Vector2.hpp>
 
 namespace GUI
 {

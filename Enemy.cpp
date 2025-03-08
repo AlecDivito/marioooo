@@ -5,7 +5,7 @@
 #include "ResourceHolder.h"
 #include "Utility.h"
 
-#include <SFML\Graphics\RenderTarget.hpp>
+#include <SFML/Graphics/RenderTarget.hpp>
 
 namespace
 {

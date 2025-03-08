@@ -6,7 +6,7 @@
 #include "Pickup.h"
 #include "Coin.h"
 
-#include <SFML\Graphics\Sprite.hpp>
+#include <SFML/Graphics/Sprite.hpp>
 
 #include <vector>
 #include <memory>
