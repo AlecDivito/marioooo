@@ -17,7 +17,7 @@ on your computer:
 You can install them all with brew.
 
 ```bash
-brew install sfml
+brew install sfml@2
 ```
 
 ## Building
@@ -30,6 +30,7 @@ you can follow these commands:
 mkdir build
 cd build
 cmake ..
+# Note: you might need to point to SFML install path like `cmake .. -DSFML_DIR=/opt/homebrew/opt/sfml@2/lib/cmake/SFML`
 make
 mv final_mario ..
 cd ..
